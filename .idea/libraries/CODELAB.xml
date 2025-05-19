@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="CODELAB">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/CODELAB/M2_CODELAB_1.zip!/" />
+      <root url="jar://$PROJECT_DIR$/CODELAB/M1_CODELAB1.zip!/" />
+      <root url="jar://$PROJECT_DIR$/CODELAB/M2_CODELAB_2.zip!/" />
+      <root url="jar://$PROJECT_DIR$/CODELAB/M3_CODELAB_1.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

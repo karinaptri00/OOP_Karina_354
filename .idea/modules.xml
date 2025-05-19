@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CODELAB/CODELAB.iml" filepath="$PROJECT_DIR$/CODELAB/CODELAB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CODELAB/M4_CODELAB_1/M4_CODELAB_1.iml" filepath="$PROJECT_DIR$/CODELAB/M4_CODELAB_1/M4_CODELAB_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/PBO_2A_KARINA_354.iml" filepath="$PROJECT_DIR$/.idea/PBO_2A_KARINA_354.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TUGAS/TUGAS.iml" filepath="$PROJECT_DIR$/TUGAS/TUGAS.iml" />
+    </modules>
+  </component>
+</project>
